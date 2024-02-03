@@ -1,5 +1,5 @@
 # KDE Splashscreen - Bounding Zigzagoon
-A simple splash screen for plasma kde that shows a **gif** of a running zigzagoon
+A simple splash screen for plasma kde that shows a **gif** of a running zigzagoon  
 Art by [@coldweatherart](https://www.instagram.com/coldweatherart/)
 
 
